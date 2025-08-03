@@ -43,7 +43,7 @@
             <!-- Newsletter -->
             <div class="col-md-6 col-lg-3">
                 <div class="newsletter">
-                    <h2>Newsletter</h2>
+                    <h2>About Us</h2>
                     <p>
                         Kami adalah perusahaan yang bergerak di bidang jasa konstruksi dan pengembangan real estate, berkomitmen menghadirkan solusi pembangunan yang tepat, berkualitas, dan terpercaya.
                     </p>
