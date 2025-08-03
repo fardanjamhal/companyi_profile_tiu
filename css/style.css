@@ -144,8 +144,13 @@ a:focus {
 }
 
 @media (max-width: 991.98px) {
+    .top-bar {
+        padding: 0 60px;
+        display: none !important; /* Sembunyikan logo */
+    }
     .top-bar .logo {
         text-align: center;
+        display: none !important; /* Sembunyikan logo */
     }
 }
 
