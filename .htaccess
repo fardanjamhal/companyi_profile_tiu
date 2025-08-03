@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Rewrite URL tanpa ekstensi .html
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^/]+)$ $1.html [L]
